@@ -1,7 +1,7 @@
 @extends('layouts.details')
 
 @push('myTitle')
-    <title>this is home page</title>
+    <title>this is home </title>
 @endpush
 
 @section('main-section')
